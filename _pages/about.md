@@ -18,7 +18,7 @@ My research interests lie in the intersection of optimization, artificial intell
 📜 Publications
 ======
 - Test-time Diverse Reasoning by Riemannian Activation Steering (https://arxiv.org/pdf/2511.08305/), with Dongxuan Zhu, and Man-Chung Yue, and Viet Anh Nguyen. AAAI 2026.
-- , with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
+- Multi-objective virtual network functions placement and traffic routing problem (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10612140/), with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
 
 🎖 Honors and Awards
 ======
