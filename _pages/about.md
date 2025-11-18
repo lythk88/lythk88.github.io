@@ -10,8 +10,6 @@ redirect_from:
 # About me
 Ly Tran Ho Khanh is a Research Assistant at The Chinese University of Hong Kong (CUHK), advised by [Prof. Viet Anh Nguyen](https://www.vietanhnguyen.net/). She holds a Bachelor's degree in Computer Science under the supervision of [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/) at the [School of Information and Communication Technology](https://soict.hust.edu.vn/en/) (SOICT), [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST), Vietnam.
 
-My research interests lie in the intersection of optimization, artificial intelligence, and machine learning. I am interested in the topics of natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. Currently, I am focusing on Activation Steering and Large Language Models (LLMs), and their applications in optimization problems.
-
 # 🔥 News
 - Accepted paper [Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/pdf/2511.08305/) at AAAI 2026.
 
