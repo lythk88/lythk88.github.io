@@ -13,11 +13,11 @@ Ly Tran Ho Khanh is a Research Assistant at The Chinese University of Hong Kong 
 My research interests lie in the intersection of optimization, artificial intelligence, and machine learning. I am interested in the topics of natural language processing, operations research, graph neural networks, reinforcement learning, and evolutionary computation. Currently, I am focusing on Activation Steering and Large Language Models (LLMs), and their applications in optimization problems.
 
 # 🔥 News
-
+- Accepted paper [Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/pdf/2511.08305/) at AAAI 2026.
 
 # 📜 Publications
-- Test-time Diverse Reasoning by Riemannian Activation Steering (https://arxiv.org/pdf/2511.08305/), with Dongxuan Zhu, and Man-Chung Yue, and Viet Anh Nguyen. AAAI 2026.
-- Multi-objective virtual network functions placement and traffic routing problem (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10612140/), with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
+- [Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/pdf/2511.08305/), with Dongxuan Zhu, and Man-Chung Yue, and Viet Anh Nguyen. AAAI 2026.
+- [Multi-objective virtual network functions placement and traffic routing problem](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10612140/), with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
 
 # 🎖 Honors and Awards
 - Scholarship from MB Bank for excellent student in HUST, 2025 (~$400)
