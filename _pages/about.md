@@ -15,12 +15,12 @@ My research interests lie in the intersection of optimization, artificial intell
 🔥 News
 ======
 
-📜 Publications
+# 📜 Publications
 ======
 - Test-time Diverse Reasoning by Riemannian Activation Steering (https://arxiv.org/pdf/2511.08305/), with Dongxuan Zhu, and Man-Chung Yue, and Viet Anh Nguyen. AAAI 2026.
 - Multi-objective virtual network functions placement and traffic routing problem (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10612140/), with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
 
-🎖 Honors and Awards
+# 🎖 Honors and Awards
 ======
 - Scholarship from MB Bank for excellent student in HUST, 2025 (~$400)
 - 5 scholarships for excellent student in semesters 2021.2 - 2024.1 (~$4000 in total)
@@ -39,12 +39,12 @@ My research interests lie in the intersection of optimization, artificial intell
 - Silver Medal Olympic 30/4 - South Vietnam in Physics, 2019
 - 2021: Excellent score in National University Exam (29/30)
 
-📖 Educations
+# 📖 Educations
 ======
 - *2021.08 - 2021.07*: Bachelor’s degree in Computer Science at [School of Information and Communication Technology](https://soict.hust.edu.vn/), Hanoi University of Science and Technology (CPA:3.93/4.0 - 1ST CLASS HONOURS).
 - *2018.08 - 2021.05*: Hung Vuong Gifted High School (Top 1 GPA in all semesters)
 
-💻 Experiences
+# 💻 Experiences
 ======
 - *2025.09 - present*: Research Assistant at The Chinese University of Hong Kong
 - *2025.07 - 2022.08*: Research Assistant at VinUniversity
