@@ -17,7 +17,7 @@ author:
   # Biographic information
   avatar           : "ava.jpg"
   name             : "Ly Tran Ho Khanh"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Research Assistant at The Chinese University of Hong Kong (CUHK)."
   # location         : "Earth"
   employer         : "The Chinese University of Hong Kong"

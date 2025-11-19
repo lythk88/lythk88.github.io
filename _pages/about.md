@@ -18,23 +18,23 @@ Ly Tran Ho Khanh is a Research Assistant at The Chinese University of Hong Kong 
 - [Multi-objective virtual network functions placement and traffic routing problem](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10612140/), with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
 
 # 🎖 Honors and Awards
-- Scholarship from Vietcombank for excellent student in HUST (~$400), 2025
-- Scholarship from MB BBank for excellent student in HUST (~$400), 2025
+- Scholarship from Vietcombank for excellent student at HUST (~$400), 2025
+- Scholarship from MB Bank for excellent student at HUST (~$400), 2025
 - 5 scholarships for excellent student in semesters 2021.2 - 2024.1 (~$4000 in total)
 - First Prize in the ACIR+ Workshop of Research and Innovation for students (in Da Nang, Vietnam), 2024
 - Scholarship from Toshiba for excellent student in HUST (~$600), 2023
-- "Student with 5 Good Criteria" title - Hanoi City level, 2023
-- "Student with 5 Good Criteria" title - University level, 2023
+- "Student with Five Good Criteria" title - Hanoi City level, 2023
+- "Student with Five Good Criteria" title - University level, 2023
 - Second Prize in the Scientific Research Student Award - HUST, 2023
 - Second Prize in the Scientific Research Student Award - SOICT, 2023
 - "Student with 5 Good Criteria" title - University level, 2022
 - Excellent score in National University Exam (29/30), 2021
-- Honorable Prize in National Excellent Student in Physics, 2021
-- Second Prize in Provincial Excellent Student in Physics, 2021
-- Honorable Prize in National Excellent Student in Physics, 2020
-- First Prize in Provincial Excellent Student in Physics, 2020
+- Honorable Prize in National Excellent Student Competition in Physics, 2021
+- Second Prize in Provincial Excellent Student Competition in Physics, 2021
+- Honorable Prize in National Excellent Student Competition in Physics, 2020
+- First Prize in Provincial Excellent Student Competition in Physics, 2020
 - Odon Vallet Scholarship (~$450), 2020
-- Silver Medal Olympic 30/4 - South Vietnam in Physics, 2019
+- Silver Medal Olympic 30/4 Competiton in South Vietnam in Physics, 2019
 
 
 # 📖 Educations
